@@ -14,6 +14,7 @@
 .idea/**/php.xml
 .idea/**/modules.xml
 .idea/
+.iml/
 
 # AWS User-specific
 .idea/**/aws.xml
