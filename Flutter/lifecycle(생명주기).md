@@ -1,7 +1,7 @@
 # 생명주기 Life Cycle
 
 ### <p align="center"> Stateless 와 Stateful </p>
-<p align="center"><img src="image/image01.png" width="400" /></p>
+<p align="center"><img src="image/image01.png" width="500" /></p>
 
 
 <br>
@@ -27,7 +27,7 @@
 
 - **mounted**  
   - 'state가 현재 tree에 존재하는지?'
-  - state가 dispose되기 전까지 mounted는 유지된다. (mounted = ture)
+  - state가 dispose되기 전까지 mounted는 유지된다. (mounted = true)
   - 모든 위젯은 bool 타입의 this.mounted 속성을 가지고 있다.
   - buildContext가 할당되면 mounted = true를 리턴한다.
   - true = 위젯을 제어할 수 있는 BuildContext에 접근할 수 있다는 의미다.
