@@ -1,6 +1,7 @@
 
 # 렌더링 원리 - 1.Tree
 
+<br>
 
 ## 플러터는 어떻게 화면을 렌더링 할까?  feat. 공식 문서
 
@@ -14,6 +15,7 @@
 
 <p align="center"><img src="image/rendering01.png" width="500" /></p>
 
+<br>
 
 ## 1. Flutter의 렌더링 과정은 3개의 트리 구조로 되어있다.   
 
